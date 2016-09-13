@@ -1,0 +1,6 @@
+E:\MyCode\C#\Practice\cinema\cinema\bin\Debug\cinema.exe.config
+E:\MyCode\C#\Practice\cinema\cinema\bin\Debug\cinema.exe
+E:\MyCode\C#\Practice\cinema\cinema\bin\Debug\cinema.pdb
+E:\MyCode\C#\Practice\cinema\cinema\obj\Debug\cinema.csprojResolveAssemblyReference.cache
+E:\MyCode\C#\Practice\cinema\cinema\obj\Debug\cinema.exe
+E:\MyCode\C#\Practice\cinema\cinema\obj\Debug\cinema.pdb

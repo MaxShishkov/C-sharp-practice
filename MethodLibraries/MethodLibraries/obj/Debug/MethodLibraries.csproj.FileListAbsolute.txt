@@ -1,0 +1,6 @@
+E:\MyCode\C#\Practice\MethodLibraries\MethodLibraries\bin\Debug\MethodLibraries.exe.config
+E:\MyCode\C#\Practice\MethodLibraries\MethodLibraries\obj\Debug\MethodLibraries.csprojResolveAssemblyReference.cache
+E:\MyCode\C#\Practice\MethodLibraries\MethodLibraries\bin\Debug\MethodLibraries.exe
+E:\MyCode\C#\Practice\MethodLibraries\MethodLibraries\bin\Debug\MethodLibraries.pdb
+E:\MyCode\C#\Practice\MethodLibraries\MethodLibraries\obj\Debug\MethodLibraries.exe
+E:\MyCode\C#\Practice\MethodLibraries\MethodLibraries\obj\Debug\MethodLibraries.pdb

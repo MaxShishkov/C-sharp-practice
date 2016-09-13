@@ -1,0 +1,6 @@
+E:\MyCode\C#\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.exe.config
+E:\MyCode\C#\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.exe
+E:\MyCode\C#\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.pdb
+E:\MyCode\C#\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.csprojResolveAssemblyReference.cache
+E:\MyCode\C#\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.exe
+E:\MyCode\C#\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.pdb
