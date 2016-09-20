@@ -1,0 +1,6 @@
+E:\MyCode\C#\C-sharp-practice\BankStructs\BankStructs\bin\Debug\BankStructs.exe.config
+E:\MyCode\C#\C-sharp-practice\BankStructs\BankStructs\bin\Debug\BankStructs.exe
+E:\MyCode\C#\C-sharp-practice\BankStructs\BankStructs\bin\Debug\BankStructs.pdb
+E:\MyCode\C#\C-sharp-practice\BankStructs\BankStructs\obj\Debug\BankStructs.csprojResolveAssemblyReference.cache
+E:\MyCode\C#\C-sharp-practice\BankStructs\BankStructs\obj\Debug\BankStructs.exe
+E:\MyCode\C#\C-sharp-practice\BankStructs\BankStructs\obj\Debug\BankStructs.pdb
